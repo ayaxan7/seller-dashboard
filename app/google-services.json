@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681333567393",
+    "project_id": "bazaar-c4e05",
+    "storage_bucket": "bazaar-c4e05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681333567393:android:cb56ffab04c6acc57d65e0",
+        "android_client_info": {
+          "package_name": "com.ayaan.bazaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtCWuBiwX8gFDlpVGI-5WDq1wPwefKQIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681333567393:android:a74f66e88961d72f7d65e0",
+        "android_client_info": {
+          "package_name": "com.ayaan.sellerdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtCWuBiwX8gFDlpVGI-5WDq1wPwefKQIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
